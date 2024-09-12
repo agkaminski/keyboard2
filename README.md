@@ -3,7 +3,8 @@
 This is a DIY 69% (nice) mechanical keyboard. Mostly to be used for DIY
 computers, but there's a provision for USB/PS2 connection too.
 
-Not tested at all yet. 
+Keyboard has been tested in the [FellaPC](https://github.com/agkaminski/FellaPC)
+project and proven 100% functional. USB/PS2 connection has not been tested yet.
 
 # Photos
 
